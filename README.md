@@ -4,6 +4,7 @@ A Tech Enthusiast doing my Master's in Computer Science at University of Souther
 
 Connect with me:
 [GitHub Profile](https://github.com/rahulagg02)
+[LinkedIn Profile](https://www.linkedin.com/in/rahul-aggarwal0212/)
 
 
 ## Languages and Tools:
