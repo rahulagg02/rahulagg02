@@ -3,7 +3,7 @@
 A Tech Enthusiast doing my Master's in Computer Science at University of Southern California
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-aggarwal0212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulagg02/)
 
 My Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=internet-explorer&logoColor=white)](https://rahulaggarwal2000.netlify.app/)
