@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Rahul Aggarwal
-A Tech Enthusiast doing my Master's in Computer Science at University of Southern California
+A Tech Enthusiast that completed his Master's in Computer Science at University of Southern California
 
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulagg02/)
